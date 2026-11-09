@@ -1,0 +1,12 @@
+snapshot_date,role_family,company,matching_engineering_roles
+2026-11-04,search,Perplexity,12
+2026-11-04,search,OpenAI,5
+2026-11-04,search,Anthropic,3
+2026-11-04,search,xAI,2
+2026-11-04,agents,OpenAI,13
+2026-11-04,agents,Anthropic,4
+2026-11-04,agents,Perplexity,4
+2026-11-04,hardware_silicon,OpenAI,14
+2026-11-04,hardware_silicon,Anthropic,4
+2026-11-04,hardware_silicon,Perplexity,1
+2026-11-04,reinforcement_learning,Anthropic,4
